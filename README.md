@@ -57,7 +57,7 @@ Blocking ports enhances security by:
 
 ## Firewall Traffic Filtering
 A firewall is a network security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules. It acts as a barrier between a trusted internal network and untrusted external networks, such as the internet.
-   How Firewalls Filter Traffic:
+   # How Firewalls Filter Traffic:
       - Packet Filtering: Examines data packets against predefined rules (source/destination IP, ports, protocols) and allows or blocks them accordingly.
       - Stateful Inspection: Tracks the state of active connections and makes dynamic filtering decisions based on context.
       - Proxy Filtering: Intercepts and inspects traffic at an application layer, acting as a gateway between networks.
